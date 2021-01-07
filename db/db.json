@@ -1,1 +1,15 @@
-[{"title":"Test Title","text":"Test text","id":"a83usfkjkl190"}]
+{
+    "notes": [
+      {
+        "title": "Note Taking Application",
+        "text": "This is a note taking application",
+        "id": 3
+      },
+      {
+        "title": "Another Note",
+        "text": "More Text.",
+        "id": 4
+      }
+    ],
+    "nextId": 5
+}

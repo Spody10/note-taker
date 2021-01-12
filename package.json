@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Spody10/note-taker/issues"
   },
-  "homepage": "https://github.com/Spody10/note-taker#readme"
+  "homepage": "https://github.com/Spody10/note-taker#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
 }

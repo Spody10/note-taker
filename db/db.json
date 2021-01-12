@@ -1,15 +1,1 @@
-{
-    "notes": [
-      {
-        "title": "Note Taking Application",
-        "text": "This is a note taking application",
-        "id": 3
-      },
-      {
-        "title": "Another Note",
-        "text": "More Text.",
-        "id": 4
-      }
-    ],
-    "nextId": 5
-}
+[{"title":"Test","text":"This is a test","id":"3"},{"title":"dsfg","text":"xzcvdfg","id":"f9e4959a-3d88-4fca-8713-cd925c53c6fa"},{"title":"sdfgbgfd","text":"edrtydgnbdf","id":"1ca54375-54ac-4d75-9fe7-4725b67e9214"}]
